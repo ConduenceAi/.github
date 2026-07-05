@@ -20,11 +20,6 @@ Voice-first platform for building and orchestrating AI trading agents on predict
 
 ---
 
-**Conduence** helps traders turn their reasoning into repeatable execution — train agents on your perspective, connect tools, and stay in control from voice or the dashboard.
+**Conduence** helps traders turn their reasoning into repeatable execution; train agents on your perspective, connect tools, and stay in control from voice or the dashboard.
 
 Currently in **private beta**.
-
-| Repo | Description |
-|:---|:---|
-| [Conduence](https://github.com/ConduenceAi/Conduence) | Core platform |
-| [ConduenceLandingPage](https://github.com/ConduenceAi/ConduenceLandingPage) | Website & waitlist |
