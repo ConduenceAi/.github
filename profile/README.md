@@ -1,12 +1,30 @@
-## Hi there 👋
+<div align="center" style="background-color: #000; padding: 2.5rem 1rem;">
 
-<!--
+<img src="./assets/conduence-logo-white.png" alt="CONDUENCE" width="360" />
 
-**Here are some ideas to get you started:**
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<div align="center">
+
+<br />
+
+**AI agents that think with you**
+
+Voice-first platform for building and orchestrating AI trading agents on prediction markets.
+
+<br />
+
+[conduence.xyz](https://conduence.xyz) · [Join waitlist](https://conduence.xyz#cta) · [contact@conduence.xyz](mailto:contact@conduence.xyz)
+
+</div>
+
+---
+
+**Conduence** helps traders turn their reasoning into repeatable execution — train agents on your perspective, connect tools, and stay in control from voice or the dashboard.
+
+Currently in **private beta**.
+
+| Repo | Description |
+|:---|:---|
+| [Conduence](https://github.com/ConduenceAi/Conduence) | Core platform |
+| [ConduenceLandingPage](https://github.com/ConduenceAi/ConduenceLandingPage) | Website & waitlist |
